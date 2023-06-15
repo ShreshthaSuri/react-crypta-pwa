@@ -11,7 +11,13 @@
         "src":"maskable.png",
         "sizes":"196x196",
         "type":"image/png",
-        "purpose":"any maskable"
+        "purpose":"maskable"
+      },
+      {
+        "src":"any.png",
+        "sizes":"196x196",
+        "type":"image/png",
+        "purpose":"any"
       },
       {
         "src":"btc192.png",
